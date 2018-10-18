@@ -1,1 +1,0 @@
-# Troubleshooting-HPE-Enclosure-and-Blades-with-vROps-and-Blue-Medora-
